@@ -2,6 +2,14 @@
 
 I've compiled a whole bunch of tutorials and references for different **coding languages** and **frameworks!** 
 
+![image](https://user-images.githubusercontent.com/72725035/215082931-891edc56-5480-4e0f-8cea-9960b24fcfad.png)
+![image](https://user-images.githubusercontent.com/72725035/215079605-95cab038-5296-4fe8-b9db-9cb1d76d5842.png)
+![image](https://user-images.githubusercontent.com/72725035/215079490-27444930-9c14-42ab-b22e-af150daa6d2f.png)
+![image](https://user-images.githubusercontent.com/72725035/215079535-b091c3d0-45ea-4c10-a252-00899662f99a.png)
+![image](https://user-images.githubusercontent.com/72725035/215079703-a65bbce5-098f-4586-ac78-d2fd8725125e.png)
+![image](https://user-images.githubusercontent.com/72725035/215084885-82c0858a-b5ab-432c-9cac-149f1ceae280.png)
+![image](https://user-images.githubusercontent.com/72725035/215085318-ea1258f3-aae0-4d54-a20f-c64140155110.png)
+
 
 
 Most of these can be read through in under an hour, and they're pitched at the beginner to intermediate level. But most importantly, they're **<u>designed to be CTRL-F-able!</u>**
